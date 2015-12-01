@@ -1,0 +1,22 @@
+
+body{
+  margin:0px;
+}
+
+
+#topbar{
+  width:100%;
+  height:45px;
+  background-color:#000000;
+}
+
+.fixedwidth{
+  width:1050px;
+  height:35px;
+  margin:0 auto;
+}
+
+img{
+    margin-top: 13px;
+}
+
