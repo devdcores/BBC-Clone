@@ -26,11 +26,10 @@ body{
     padding-left: 15px;
 }
 #signindiv{
-    margin-left: 120px;
     width: 140px;
     height: 120%;
     padding: 6px5px 0 50px;
-
+    float:left;
     border-right: 2px  white solid;
 }
 
@@ -44,5 +43,45 @@ font-family: Arial;
     position: relative;
     padding-top: 3px;
     float:left;
+}
+
+#topmenudiv {
+    float:left;
+    height:100%;
+    margin: auto;
+
+}
+
+#topmenudiv ul{
+    height:100%;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#topmenudiv li{
+    font-size: 20px;
+    font-family: sans-serif;
+    list-style: none;
+    float:left;
+    height:100%;
+    margin: 0px 0px 9px 0px;
+    padding: 8px 25px 0px 10px;
+    border-right: 2px  white solid;
+}
+
+#search{
+    margin:0 auto;
+    float:left;
+    margin: 4px 0px 0px 10px;
+}
+
+#search input{
+    margin:0 auto;
+    height: 25px;
+    width:250px;
+    margin-right: 0px;
+    background-image: url("images/Search.PNG");
+    background-repeat: no-repeat;
+    background-position: right center;
 }
 
