@@ -127,5 +127,5 @@ body {
     width: 200px;
     background-color: crimson;
     display: none;
-        position: inherit;
+        position: relative;
 }
